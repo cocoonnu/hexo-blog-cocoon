@@ -1,0 +1,60 @@
+logo:
+  avatar: /assets/avatar.jpeg
+
+open_graph:
+  enable: true
+
+article:
+  #   share: [wechat, weibo, email, link]
+  related_posts:
+    enable: true
+    title: 您可能感兴趣的文章
+  license: "本文采用 [署名-非商业性使用-相同方式共享 4.0 国际](https://creativecommons.org/licenses/by-nc-sa/4.0/) 许可协议，转载请注明出处。"
+
+# menubar:
+#   items:
+#     - id: post
+#       theme: "#1BCDFC"
+#       icon: solar:documents-bold-duotone
+#       title: 博客
+#       url: /
+# - id: topic
+#   theme: '#3DC550'
+#   icon: solar:notebook-bookmark-bold-duotone
+#   title: 专栏
+#   url: /topic/
+# - id: explore
+#   theme: '#FA6400'
+#   icon: solar:planet-bold-duotone
+#   title: 探索
+#   url: /explore/
+# - id: social
+#   theme: '#F44336'
+#   icon: solar:chat-square-like-bold-duotone
+#   title: 社交
+#   url: /friends/
+
+style:
+  text-align: justify
+  smooth_scroll: false
+  codeblock:
+    scrollbar: 0px
+  font-size:
+    body: 1rem
+  font-family:
+    logo: '"LXGW WenKai Screen", system-ui, "Microsoft Yahei", "Segoe UI", -apple-system, Roboto, Ubuntu, "Helvetica Neue", Arial, "WenQuanYi Micro Hei", sans-serif'
+    body: '"LXGW WenKai Screen", system-ui, "Microsoft Yahei", "Segoe UI", -apple-system, Roboto, Ubuntu, "Helvetica Neue", Arial, "WenQuanYi Micro Hei", sans-serif'
+    code: '"LXGW WenKai Screen", Menlo, Monaco, Consolas, system-ui, "Courier New", monospace, sans-serif'
+    codeblock: 'Menlo, Monaco, Consolas, system-ui, "Courier New", monospace, sans-serif'
+
+inject:
+  head:
+    - <link rel="stylesheet" href="https://cdn.bootcdn.net/ajax/libs/lxgw-wenkai-screen-webfont/1.7.0/style.min.css" media="all" />
+
+tag_plugins:
+  quot:
+    default: # 可以自行配置多种图标方案
+      prefix: https://bu.dusays.com/2022/10/24/63567d3e092ff.png
+      suffix: https://bu.dusays.com/2022/10/24/63567d3e0ab55.png
+    hashtag:
+      prefix: https://bu.dusays.com/2022/10/24/63567d3e07da3.png
