@@ -89,6 +89,7 @@ $ hexo generate
 4. 最后使用命令进行一键部署即可，在 Github 项目中 Settings -> Actions 查看部署结果
 
    ```bash
+   $ hexo clean # 清除旧页面
    $ hexo deploy
    ```
 
