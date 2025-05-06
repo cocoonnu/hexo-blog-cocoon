@@ -16,12 +16,10 @@ references:
 
 <!-- 指定摘要 -->
 
-官网：[https://hexo.io/zh-cn/docs/](https://hexo.io/zh-cn/docs/)，下面手把手讲一讲初始化搭建过程
+Hexo 官网：[https://hexo.io/zh-cn/docs/](https://hexo.io/zh-cn/docs/)，下面手把手讲一讲初始化搭建过程
 {% hashtag Stellar https://xaoxuu.com/wiki/stellar/ %}
 {% hashtag Hexo https://hexo.io/ %}
 {% hashtag GitHub https://github.com/cocoonnu/hexo-blog-cocoon %}
-
-<!-- more -->
 
 ## 搭建过程
 

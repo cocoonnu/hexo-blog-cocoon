@@ -58,3 +58,27 @@ tag_plugins:
       suffix: https://bu.dusays.com/2022/10/24/63567d3e0ab55.png
     hashtag:
       prefix: https://bu.dusays.com/2022/10/24/63567d3e07da3.png
+
+services:
+  siteinfo:
+    api: https://site-info-api-eosin.vercel.app/api/v1?url={href}
+
+comments:
+  service: giscus
+  # giscus
+  # https://giscus.app/zh-CN
+  giscus:
+    src: https://giscus.app/client.js
+    data-repo: cocoonnu/hexo-blog-cocoon
+    data-repo-id: R_kgDOOg-WaA
+    data-category: Announcements
+    data-category-id: DIC_kwDOOg-WaM4Cp020
+    data-mapping: pathname
+    data-strict: 0
+    data-reactions-enabled: 1
+    data-emit-metadata: 0
+    data-input-position: top # top, bottom
+    data-theme: preferred_color_scheme
+    data-lang: zh-CN
+    data-loading: lazy
+    crossorigin: anonymous
