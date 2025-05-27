@@ -4,6 +4,7 @@ title: Flutter 开发环境搭建 # 文章标题
 description: 这篇文章主要记录在 Mac 上搭建 Flutter 开发环境的过程 # 文章摘要
 tags: [Flutter]
 categories: [技术文档]
+topic: technical-documentation
 references:
   - "[Flutter 开发文档](https://docs.flutter.cn/)"
   - "[Mac 上配置 Android 环境变量](https://blog.csdn.net/MirkoWug/article/details/126948260)"

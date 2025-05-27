@@ -62,6 +62,7 @@ $ hexo generate
 
 <br/>
 <center>{% emoji blobcat ablobcatrainbow height:1em %}{% emoji blobcat ablobcatrainbow height:2em %}{% emoji blobcat ablobcatrainbow height:3em %}{% emoji blobcat ablobcatrainbow height:2em %}{% emoji blobcat ablobcatrainbow height:1em %}</center>
+<!-- emoji索引在评论区中可以查看：https://weekdaycare.cn/posts/emoji-blob/ -->
 
 ## 部署过程
 

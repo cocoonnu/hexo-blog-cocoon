@@ -4,6 +4,7 @@ title: GASP 动画库学习指南 # 文章标题
 description: GASP 官方文档：https://gsap.com/，这篇文章会大致介绍一些动画工具的使用 # 文章摘要
 tags: [GASP]
 categories: [技术文档]
+topic: technical-documentation
 references:
   - "[GASP 官方文档](https://gsap.com/)"
   - "[Getting Started with GSAP](https://gsap.framer.wiki/stated)"

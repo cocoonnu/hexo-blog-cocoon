@@ -4,6 +4,7 @@ title: DOM/BOM 开发笔记 # 文章标题
 description: 这篇文章主要记录 DOM/BOM 相关的开发笔记，包括 DOM 操作、BOM 对象使用等内容 # 文章摘要
 tags: [Web]
 categories: [技术文档]
+topic: technical-documentation
 references:
   - "[DOM 常用操作](https://vue3js.cn/interview/JavaScript/Dom.html)"
   - "[DOM 详细解析](https://juejin.cn/post/6875674323042959368)"

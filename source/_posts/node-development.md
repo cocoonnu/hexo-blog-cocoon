@@ -4,6 +4,7 @@ title: Node 前端环境配置 # 文章标题
 description: 记录 Node 前端开发环境配置：npm/yarn 管理、nrm 源切换、nvm 版本控制一站掌握 # 文章摘要
 tags: [Node]
 categories: [技术文档]
+topic: technical-documentation
 ---
 
 <!-- 使用引用标签作为标题 -->

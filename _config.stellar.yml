@@ -59,7 +59,7 @@ tag_plugins:
     hashtag:
       prefix: https://bu.dusays.com/2022/10/24/63567d3e07da3.png
 
-services:
+data_services:
   siteinfo:
     api: https://site-info-api-eosin.vercel.app/api/v1?url={href}
 
@@ -82,3 +82,8 @@ comments:
     data-lang: zh-CN
     data-loading: lazy
     crossorigin: anonymous
+
+copycode:
+  enable: true
+  default_text: "Copy" # 按钮显示文字
+  success_text: "Copied" # 复制成功信息

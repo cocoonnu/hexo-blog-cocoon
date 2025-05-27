@@ -4,6 +4,7 @@ title: 响应式交互方案记录 # 文章标题
 description: 这篇文章主要记录响应式布局相关的开发笔记，包括视口适配、媒体查询、Flex/Grid 布局等内容 # 文章摘要
 tags: [Web]
 categories: [技术文档]
+topic: technical-documentation
 ---
 
 <!-- 使用引用标签作为标题 -->
